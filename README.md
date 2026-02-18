@@ -31,32 +31,48 @@ Each **branch represents a specific syllabus**.
 
 Example branches:
 
-- `2019_Syllabus`
-- `2023_Syllabus`
-- `Autonomous_Syllabus`
+- `syllabus2021-2023`
+- `syllabus2024-2026`
 - etc.
 
 Inside each branch, the structure follows:
 
 ```
-Branch (Syllabus)
+Branch_Name (Syllabus)
 │
-├── Semester_1/
-│ ├── Question_Papers/
-│ │ ├── 2021/
-│ │ ├── 2022/
-│ │ └── ...
-│ │
-│ └── Study_Materials/
-│ ├── 2021/
-│ ├── 2022/
-│ └── ...
+├── Question_Papers/
+│   ├── Semester_1/
+│   │   ├── 2021/
+│   │   ├── 2022/
+│   │   └── ...
+│   │
+│   ├── Semester_2/
+│   │   ├── 2021/
+│   │   ├── 2022/
+│   │   └── ...
+│   │
+│   └── ...
 │
-├── Semester_2/
-│ ├── Question_Papers/
-│ └── Study_Materials/
+├── 2021-2022Batch/
+│   ├── SEM-1/
+│   │   └── Study_Materials/
+│   │
+│   ├── SEM-2/
+│   │   └── Study_Materials/
+│   │
+│   └── ...
+│
+├── 2022-2027Batch/
+│   ├── SEM-1/
+│   │   └── Study_Materials/
+│   │
+│   ├── SEM-2/
+│   │   └── Study_Materials/
+│   │
+│   └── ...
 │
 └── ...
+
 ```
 
 
