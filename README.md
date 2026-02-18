@@ -1,103 +1,119 @@
-📚 SFI-DCS Subcommittee E-Library
-<p align="center"> <img src="docs/logo.png" alt="SFI-DCS Logo" width="180"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> <img src="https://img.shields.io/badge/Maintained-Yes-blue" /> <img src="https://img.shields.io/badge/License-Educational-lightgrey" /> <img src="https://img.shields.io/badge/Contributions-Welcome-orange" /> </p>
-📖 About the Repository
+# 📚 SFI-DCS Subcommittee E-Library
 
-The SFI-DCS Subcommittee E-Library is a centralized academic resource repository designed to support upcoming students by providing:
+<p align="center">
+  <img src="docs/logo.png" alt="SFI-DCS Logo" width="180"/>
+</p>
 
-📄 Previous year question papers
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-blue" />
+  <img src="https://img.shields.io/badge/Structure-Branch%20Wise-orange" />
+  <img src="https://img.shields.io/badge/Purpose-Educational-lightgrey" />
+</p>
 
-📘 Subject-wise study materials
+---
 
-🗂 Organized academic documentation
+## 📖 About
 
-🎓 Resources for effective exam preparation
+The **SFI-DCS Subcommittee E-Library** is a centralized academic repository designed to store and organize:
 
-This initiative ensures academic continuity and structured knowledge sharing for future batches.
+- 📄 Previous Year Question Papers  
+- 📘 Study Materials  
+- 🗂 Semester-wise Academic Resources  
 
-🎯 Objective
+The repository is structured **branch-wise based on syllabus**, ensuring clarity and academic continuity for future batches.
 
-The purpose of this repository is to:
+---
 
-Preserve academic materials for future reference
+## 🌿 Repository Structure Overview
 
-Assist students in exam preparation
+Each **branch represents a specific syllabus**.
 
-Maintain semester-wise and subject-wise organization
+Example branches:
 
-Encourage collaborative academic contribution
+- `2019_Syllabus`
+- `2023_Syllabus`
+- `Autonomous_Syllabus`
+- etc.
 
-📂 Repository Structure
-SFI-DCS-ELibrary/
+Inside each branch, the structure follows:
+
+Branch (Syllabus)
 │
-├── Question_Papers/
-│   ├── Semester_1/
-│   ├── Semester_2/
-│   └── ...
+├── Semester_1/
+│ ├── Question_Papers/
+│ │ ├── 2021/
+│ │ ├── 2022/
+│ │ └── ...
+│ │
+│ └── Study_Materials/
+│ ├── 2021/
+│ ├── 2022/
+│ └── ...
 │
-├── Study_Materials/
-│   ├── Subject_Name/
-│   ├── Notes/
-│   └── Reference_Materials/
+├── Semester_2/
+│ ├── Question_Papers/
+│ └── Study_Materials/
 │
-└── README.md
+└── ...
 
 
-The structure may be updated as new materials are added.
 
-📌 How to Use
+---
 
-Navigate to your respective semester folder
+## 📌 How to Use
 
-Select the required subject
+1. Select the appropriate **branch (syllabus year)**  
+2. Open your respective **semester folder**  
+3. Choose either:
+   - `Question_Papers`
+   - `Study_Materials`
+4. Select the required academic year folder  
+5. Download the material  
 
-Download the available materials
+---
 
-Use them for revision and preparation
+## 📎 File Naming Convention
 
-🤝 Contribution Guidelines
-
-We welcome contributions from subcommittee members and volunteers.
-
-To contribute:
-
-Fork this repository
-
-Upload materials in the appropriate folder
-
-Follow proper file naming format
-
-Submit a Pull Request
-
-📎 File Naming Convention
-
-Use clear and standardized names:
-
-SubjectName_Semester_Year_Type.pdf
+Maintain uniform file names:
 
 
-Example:
+---
 
-DataStructures_Sem3_2024_QuestionPaper.pdf
-OperatingSystems_Sem4_Notes.pdf
+## 🤝 Contribution Guidelines
 
-⚠️ Upload Guidelines
+We welcome contributions from subcommittee members.
 
-Ensure materials are verified and accurate
+### To Contribute:
 
-Avoid duplicate uploads
+1. Switch to the correct syllabus branch  
+2. Upload files to the correct semester and year folder  
+3. Follow naming conventions  
+4. Submit a Pull Request  
 
-Prefer PDF format for consistency
+For structural changes, open an issue before proceeding.
 
-Maintain clean folder organization
+---
 
-👥 Maintained By
+## ⚠️ Upload Rules
 
-SFI-DCS Subcommittee
-Department of Computer Science
+- Verify authenticity before uploading  
+- Avoid duplicate submissions  
+- Prefer PDF format  
+- Maintain proper folder hierarchy  
+- Do not mix syllabus branches  
 
-For queries or suggestions, please open an issue in this repository.
+---
 
-📜 Usage Policy
+## 👥 Maintained By
 
-This repository is maintained strictly for educational purposes.
-Materials are intended for academic support of students.
+**SFI-DCS Subcommittee**  
+Department of Computer Science  
+
+For queries or suggestions, please raise an issue in this repository.
+
+---
+
+## 📜 Usage Policy
+
+This repository is maintained strictly for **educational purposes** to support current and future students.
