@@ -38,6 +38,7 @@ Example branches:
 
 Inside each branch, the structure follows:
 
+```
 Branch (Syllabus)
 │
 ├── Semester_1/
@@ -56,6 +57,7 @@ Branch (Syllabus)
 │ └── Study_Materials/
 │
 └── ...
+```
 
 
 
