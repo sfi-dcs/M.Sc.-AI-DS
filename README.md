@@ -1,37 +1,103 @@
-# Foobar
+📚 SFI-DCS Subcommittee E-Library
+<p align="center"> <img src="docs/logo.png" alt="SFI-DCS Logo" width="180"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> <img src="https://img.shields.io/badge/Maintained-Yes-blue" /> <img src="https://img.shields.io/badge/License-Educational-lightgrey" /> <img src="https://img.shields.io/badge/Contributions-Welcome-orange" /> </p>
+📖 About the Repository
 
-Foobar is a Python library for dealing with word pluralization.
+The SFI-DCS Subcommittee E-Library is a centralized academic resource repository designed to support upcoming students by providing:
 
-## Installation
+📄 Previous year question papers
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+📘 Subject-wise study materials
 
-```bash
-pip install foobar
-```
+🗂 Organized academic documentation
 
-## Usage
+🎓 Resources for effective exam preparation
 
-```python
-import foobar
+This initiative ensures academic continuity and structured knowledge sharing for future batches.
 
-# returns 'words'
-foobar.pluralize('word')
+🎯 Objective
 
-# returns 'geese'
-foobar.pluralize('goose')
+The purpose of this repository is to:
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Preserve academic materials for future reference
 
-## Contributing
+Assist students in exam preparation
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Maintain semester-wise and subject-wise organization
 
-Please make sure to update tests as appropriate.
+Encourage collaborative academic contribution
 
-## License
+📂 Repository Structure
+SFI-DCS-ELibrary/
+│
+├── Question_Papers/
+│   ├── Semester_1/
+│   ├── Semester_2/
+│   └── ...
+│
+├── Study_Materials/
+│   ├── Subject_Name/
+│   ├── Notes/
+│   └── Reference_Materials/
+│
+└── README.md
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+The structure may be updated as new materials are added.
+
+📌 How to Use
+
+Navigate to your respective semester folder
+
+Select the required subject
+
+Download the available materials
+
+Use them for revision and preparation
+
+🤝 Contribution Guidelines
+
+We welcome contributions from subcommittee members and volunteers.
+
+To contribute:
+
+Fork this repository
+
+Upload materials in the appropriate folder
+
+Follow proper file naming format
+
+Submit a Pull Request
+
+📎 File Naming Convention
+
+Use clear and standardized names:
+
+SubjectName_Semester_Year_Type.pdf
+
+
+Example:
+
+DataStructures_Sem3_2024_QuestionPaper.pdf
+OperatingSystems_Sem4_Notes.pdf
+
+⚠️ Upload Guidelines
+
+Ensure materials are verified and accurate
+
+Avoid duplicate uploads
+
+Prefer PDF format for consistency
+
+Maintain clean folder organization
+
+👥 Maintained By
+
+SFI-DCS Subcommittee
+Department of Computer Science
+
+For queries or suggestions, please open an issue in this repository.
+
+📜 Usage Policy
+
+This repository is maintained strictly for educational purposes.
+Materials are intended for academic support of students.
