@@ -1,7 +1,7 @@
 # 📚 SFI-DCS Subcommittee E-Library
 
 <p align="center">
-  <img src="docs/logo.png" alt="SFI-DCS Logo" width="180"/>
+  <img src="https://github.com/sfi-dcs/dcs/blob/88e7a87e23698fd093dbab954703ae9e58c45bf3/logo-dcs.png" alt="SFI-DCS Logo" width="180"/>
 </p>
 
 <p align="center">
