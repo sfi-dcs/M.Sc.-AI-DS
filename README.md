@@ -1,7 +1,7 @@
 # 📚 SFI-DCS Subcommittee E-Library
 
 <p align="center">
-  <img src="docs/logo.png" alt="SFI-DCS Logo" width="180"/>
+  <img src="https://github.com/sfi-dcs/dcs/blob/88e7a87e23698fd093dbab954703ae9e58c45bf3/logo-dcs.png" alt="SFI-DCS Logo" width="180"/>
 </p>
 
 <p align="center">
@@ -31,32 +31,48 @@ Each **branch represents a specific syllabus**.
 
 Example branches:
 
-- `2019_Syllabus`
-- `2023_Syllabus`
-- `Autonomous_Syllabus`
+- `syllabus2021-2023`
+- `syllabus2024-2026`
 - etc.
 
 Inside each branch, the structure follows:
 
 ```
-Branch (Syllabus)
+Branch_Name (Syllabus)
 │
-├── Semester_1/
-│ ├── Question_Papers/
-│ │ ├── 2021/
-│ │ ├── 2022/
-│ │ └── ...
-│ │
-│ └── Study_Materials/
-│ ├── 2021/
-│ ├── 2022/
-│ └── ...
+├── Question_Papers/
+│   ├── Semester_1/
+│   │   ├── 2021/
+│   │   ├── 2022/
+│   │   └── ...
+│   │
+│   ├── Semester_2/
+│   │   ├── 2021/
+│   │   ├── 2022/
+│   │   └── ...
+│   │
+│   └── ...
 │
-├── Semester_2/
-│ ├── Question_Papers/
-│ └── Study_Materials/
+├── 2021-2022Batch/
+│   ├── SEM-1/
+│   │   └── Study_Materials/
+│   │
+│   ├── SEM-2/
+│   │   └── Study_Materials/
+│   │
+│   └── ...
+│
+├── 2022-2027Batch/
+│   ├── SEM-1/
+│   │   └── Study_Materials/
+│   │
+│   ├── SEM-2/
+│   │   └── Study_Materials/
+│   │
+│   └── ...
 │
 └── ...
+
 ```
 
 
