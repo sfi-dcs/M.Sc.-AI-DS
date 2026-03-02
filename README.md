@@ -1,4 +1,7 @@
 # 📚 SFI-DCS Subcommittee E-Library
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
   <img src="https://github.com/sfi-dcs/dcs/blob/88e7a87e23698fd093dbab954703ae9e58c45bf3/logo-dcs.png" alt="SFI-DCS Logo" width="180"/>
@@ -42,32 +45,32 @@ Branch_Name (Syllabus)
 │
 ├── Question_Papers/
 │   ├── Semester_1/
-│   │   ├── 2021/
-│   │   ├── 2022/
+│   │   ├── 2021
+│   │   ├── 2022
 │   │   └── ...
 │   │
 │   ├── Semester_2/
-│   │   ├── 2021/
-│   │   ├── 2022/
+│   │   ├── 2021
+│   │   ├── 2022
 │   │   └── ...
 │   │
 │   └── ...
 │
 ├── 2021-2022Batch/
 │   ├── SEM-1/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   ├── SEM-2/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   └── ...
 │
 ├── 2022-2027Batch/
 │   ├── SEM-1/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   ├── SEM-2/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   └── ...
 │
@@ -100,7 +103,7 @@ Maintain uniform file names:
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions from subcommittee members.
+We welcome contributions from subcommittee members and students.
 
 ### To Contribute:
 
@@ -129,6 +132,32 @@ For structural changes, open an issue before proceeding.
 Department of Computer Science  
 
 For queries or suggestions, please raise an issue in this repository.
+
+---
+
+## 👨‍💻 Contributors
+
+Thanks to these amazing contributors:
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Anugrahaa07"><img src="https://avatars.githubusercontent.com/u/223232400?v=4?s=100" width="100px;" alt="Anugraha Anil"/><br /><sub><b>Anugraha Anil</b></sub></a><br /><a href="#content-Anugrahaa07" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Manuratnam"><img src="https://avatars.githubusercontent.com/u/223795415?v=4?s=100" width="100px;" alt="Manuratnam"/><br /><sub><b>Manuratnam</b></sub></a><br /><a href="#content-Manuratnam" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhijithshaji17"><img src="https://avatars.githubusercontent.com/u/223315791?v=4?s=100" width="100px;" alt="Abhijith Shaji"/><br /><sub><b>Abhijith Shaji</b></sub></a><br /><a href="#content-abhijithshaji17" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/basilsam"><img src="https://avatars.githubusercontent.com/u/180090103?v=4?s=100" width="100px;" alt="basilsam"/><br /><sub><b>basilsam</b></sub></a><br /><a href="#content-basilsam" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adithyan-mp"><img src="https://avatars.githubusercontent.com/u/135038183?v=4?s=100" width="100px;" alt="Adithyan-mp"/><br /><sub><b>Adithyan-mp</b></sub></a><br /><a href="#content-Adithyan-mp" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 

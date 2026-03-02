@@ -1,0 +1,61 @@
+{
+  "projectName": "M.Sc.-AI-DS",
+  "projectOwner": "sfi-dcs",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Anugrahaa07",
+      "name": "Anugraha Anil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223232400?v=4",
+      "profile": "https://github.com/Anugrahaa07",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Manuratnam",
+      "name": "Manuratnam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223795415?v=4",
+      "profile": "https://github.com/Manuratnam",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "abhijithshaji17",
+      "name": "Abhijith Shaji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223315791?v=4",
+      "profile": "https://github.com/abhijithshaji17",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "basilsam",
+      "name": "basilsam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180090103?v=4",
+      "profile": "https://github.com/basilsam",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Adithyan-mp",
+      "name": "Adithyan-mp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135038183?v=4",
+      "profile": "https://github.com/Adithyan-mp",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
